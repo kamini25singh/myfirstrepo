@@ -1,4 +1,4 @@
-from Spy_details import *
+from spy_detail import *
 from steganography.steganography import Steganography
 from datetime import datetime
 import csv
